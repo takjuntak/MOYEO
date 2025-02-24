@@ -1,6 +1,6 @@
 # :airplane: 모여(모두의 여행)
 <p>
-   <img src="/uploads/b07454345eae5955b88ef17a4ea1a863/image_app_main.png" width="400" style="margin: 8px" />
+   <img src="https://github.com/user-attachments/assets/eaeb0679-a6ba-419b-8d77-de0edd23e63d" width="400" style="margin: 8px" />
 </p>
 
 > "여행을 가고 싶은데, 여행 일정을 짜기가 힘들고 귀찮은데... 어떻게 하지?"
@@ -17,23 +17,23 @@
 ### AI 플래너
 > 직접 추가는 그만! 일정 생성의 자동화를 통해 간편하게 일정을 작성하자!
   <p>
-     <img src="/uploads/22a98bf832be4e5d1c73bbdb82110275/기능1_1.gif" width="200" style="margin: 8px" />
-     <img src="/uploads/27b61b4b6660d3f8d78c431242fe59aa/기능1_3.gif" width="200" style="margin: 8px" />
-     <img src="/uploads/7b1e8e8620de4579004e4ce67adca930/기능1_2.gif" width="200" style="margin: 8px" />
+     <img src="https://github.com/user-attachments/assets/c07d3048-6b70-4753-819d-23570d9e2cad" width="200" style="margin: 8px" />
+     <img src="https://github.com/user-attachments/assets/9f975775-083f-495e-9feb-654851fbaf12" width="200" style="margin: 8px" />
+     <img src="https://github.com/user-attachments/assets/c2999e9d-9dea-435d-8838-ac3f72c8551b" width="200" style="margin: 8px" />
   </p>
 
 ### 여행 일정 편집기
 > 함께 만드는 일정! 실시간 동시 편집으로 여행 계획을 더 효율적으로 관리하자!
   <p>
-     <img src="/uploads/75688011ac38387d03371afa1b7f0685/기능2_1.gif" width="200" style="margin: 8px" />
+     <img src="https://github.com/user-attachments/assets/34162cc5-7b90-41e4-80b8-714a4c287ee7" width="200" style="margin: 8px" />
   </p>
 
 ### 추억 남기기
 > 소중한 순간을 하나로! 여행의 모든 순간을 사진첩에 남기고 함께 공유하자!
   <p>
-     <img src="/uploads/2eb10bb7341faa487428b0db0c0dfdee/기능3_1.gif" width="200" style="margin: 8px" />
-     <img src="/uploads/146201fbff0ce987e80e3f8a59e1808f/기능3_2.gif" width="200" style="margin: 8px" />
-     <img src="/uploads/5ee1a4c0ab92705ae4efec1c45e540dc/기능3_3.gif" width="200" style="margin: 8px" />
+     <img src="https://github.com/user-attachments/assets/a9961070-b15f-43f6-88e8-055c3095870a" width="200" style="margin: 8px" />
+     <img src="https://github.com/user-attachments/assets/7e9dec02-d600-438e-a423-eebdced37d59" width="200" style="margin: 8px" />
+     <img src="https://github.com/user-attachments/assets/b0106f11-cb29-48cc-9688-8f5dee5612df" width="200" style="margin: 8px" />
   </p>
 
 &nbsp;
@@ -70,7 +70,7 @@
 
 ## 📂 프로젝트 구조
 <p>
-   <img src="/uploads/3d872f3814a57739a9d8c5582f90869e/능이버섯_Architecture.png" width="500" style="margin: 8px" />
+   <img src="https://github.com/user-attachments/assets/34038202-b08e-445f-8cef-bd71252c868b" width="500" style="margin: 8px" />
 </p>
 &nbsp;
 
